@@ -6,7 +6,7 @@ export default defineConfig({
 	site: "https://honey-lang.github.io",
 	integrations: [
 		starlight({
-			title: "Honey",
+			title: "honey",
 			social: {
 				github: "https://github.com/honey-lang/honey",
 			},
