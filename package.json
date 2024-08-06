@@ -1,5 +1,6 @@
 {
   "name": "docs",
+  "homepage": "https://honey-lang.org",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
